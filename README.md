@@ -2,6 +2,7 @@
 
 ### My App's 💼
 - GitHub automation project (C#+Selenium)📚  `public`<br/>
+- OpenProject automation project (C#+Selenium)📚  `private`<br/>
 - LinkdIn automation project (Java+Selenium) :atom:  `private`<br/>
 - Anti spam bot for telegram groups (C#)🤖  `private`
 
