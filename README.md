@@ -1,10 +1,14 @@
-## Hi there 🙋‍♂️👨‍💻
+## Hi there 🙋‍♂️
+
+### A litle bit About me 👨‍💻
+I'm Ilor and I'm an experienced Automation engineer (4 years).
 
 ### My App's 💼
 - GitHub automation project (C#+Selenium)📚  `public`<br/>
 - OpenProject automation project (C#+Selenium)📚  `private`<br/>
 - LinkdIn automation project (Java+Selenium) :atom:  `private`<br/>
 - Anti spam bot for telegram groups (C#)🤖  `private`
+- Simple CV site (ReactJs)📑 `private`
 
 ### Connect me 🔗
 - [Linkedin](https://www.linkedin.com/in/ilor-shurer-513128203/) 💬
