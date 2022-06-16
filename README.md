@@ -1,9 +1,9 @@
 ## Hi there 🙋‍♂️👨‍💻
 
 ### My App's 💼
-- GitHub automation project (C#+Selenium) `public`📚<br/>
-- LinkdIn automation project (Java+Selenium) `private` :atom:<br/>
-- Anti spam bot for telegram groups (C#) `private` 🤖
+- GitHub automation project (C#+Selenium)📚  `public`<br/>
+- LinkdIn automation project (Java+Selenium) :atom:  `private`<br/>
+- Anti spam bot for telegram groups (C#)🤖  `private`
 
 ### Connect me 🔗
 - [Linkedin](https://www.linkedin.com/in/ilor-shurer-513128203/) 💬
