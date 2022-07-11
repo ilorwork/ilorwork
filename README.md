@@ -1,6 +1,6 @@
 ## Hi there 🙋‍♂️
 
-### A litle bit About me 👨‍💻
+### A little bit About me 👨‍💻
 I'm Ilor and I'm an experienced Automation engineer (4 years).
 
 ### My App's 💼
