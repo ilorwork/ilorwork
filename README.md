@@ -1,7 +1,7 @@
 ## Hi there 🙋‍♂️
 
 ### A little bit About me 👨‍💻
-I'm Ilor and I'm an experienced Automation engineer (4 years).
+I'm Ilor and I'm an experienced Automation engineer.
 
 ### My App's 💼
 - [GitHub automation project](https://github.com/ilorwork/GitHub-Automation) (C#+Selenium)📚  `public`<br/>
