@@ -7,7 +7,7 @@ I'm Ilor and I'm an experienced Automation engineer.
 - [GitHub automation project](https://github.com/ilorwork/GitHub-Automation) (C#+Selenium)📚  `public`<br/>
 - OpenProject automation project (C#+Selenium)📚  `private`<br/>
 - LinkdIn automation project (Java+Selenium) :atom:  `private`<br/>
-- Anti spam bot for telegram groups (C#)🤖  `private`
+- [Anti spam bot for telegram groups](https://github.com/ilorwork/UserVerificator) (C#)🤖  `public`
 - Simple CV site (ReactJs)📑 `private`
 
 ### Connect me 🔗
