@@ -82,6 +82,8 @@ I'm Ilor and I'm an experienced Automation engineer.
         </a>
         <br />RestSharp
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <a href="https://www.jenkins.io/doc/" rel="nofollow">
           <img
@@ -105,34 +107,6 @@ I'm Ilor and I'm an experienced Automation engineer.
           />
         </a>
         <br />TestNG
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://www.postman.com/" rel="nofollow">
-          <img
-            src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"
-            width="48"
-            height="48"
-            alt="Postman"
-            data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-            style="max-width: 100%"
-          />
-        </a>
-        <br />Postman
-      </td>
-      <td align="center" width="96">
-        <a href="https://git-scm.com/" rel="nofollow">
-          <img
-            src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"
-            width="48"
-            height="48"
-            alt="Git"
-            data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            style="max-width: 100%"
-          />
-        </a>
-        <br />Git
       </td>
       <td align="center" width="96">
         <a
@@ -179,6 +153,34 @@ I'm Ilor and I'm an experienced Automation engineer.
         </a>
         <br />CSS3
       </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.postman.com/" rel="nofollow">
+          <img
+            src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"
+            width="48"
+            height="48"
+            alt="Postman"
+            data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+            style="max-width: 100%"
+          />
+        </a>
+        <br />Postman
+      </td>
+      <td align="center" width="96">
+        <a href="https://git-scm.com/" rel="nofollow">
+          <img
+            src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"
+            width="48"
+            height="48"
+            alt="Git"
+            data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+            style="max-width: 100%"
+          />
+        </a>
+        <br />Git
+      </td>
       <td align="center" width="96">
         <a href="https://reactjs.org/" rel="nofollow">
           <img
@@ -190,6 +192,21 @@ I'm Ilor and I'm an experienced Automation engineer.
           />
         </a>
         <br />React JS
+      </td>
+      <td align="center" width="96">
+        <a
+          href="https://nodejs.org/en/about/"
+          rel="nofollow"
+        >
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"
+            width="48"
+            height="48"
+            alt="Node JS"
+            style="max-width: 100%"
+          />
+        </a>
+        <br />Node JS
       </td>
       <td align="center" width="96">
         <a
@@ -210,5 +227,5 @@ I'm Ilor and I'm an experienced Automation engineer.
   </tbody>
 </table>
 
-emoji are from [this repo](https://github.com/ikatyang/emoji-cheat-sheet) <br/>
-icons are from [this repo](https://github.com/devicons/devicon)
+Emojis are from [this repo](https://github.com/ikatyang/emoji-cheat-sheet) <br/>
+Icons are from [this repo](https://github.com/devicons/devicon)
