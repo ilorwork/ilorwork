@@ -11,7 +11,7 @@ I'm Ilor and I'm an experienced Automation engineer.
 - Simple CV site (ReactJs)📑 `private`
 
 ### Connect me 🔗
-- [Linkedin](https://www.linkedin.com/in/ilor-shurer-513128203/) 💬
+- [LinkedIn](https://www.linkedin.com/in/ilor-shurer-513128203/) 💬
 - Feel free to send an [E-mail](mailto:ilorwork64@gmail.com) 📧
 
 ### Languages and Tools 🛠
