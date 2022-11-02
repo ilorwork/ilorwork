@@ -1,7 +1,7 @@
 ## Hi there 🙋‍♂️
 
 ### A little bit About me 👨‍💻
-I'm Ilor and I'm an experienced Automation engineer.
+I'm Ilor and I'm an experienced Automation engineer. <br/>
 Just recently I finished my FullStack course (MERN), See My [MeetMusic](https://meetmusic.onrender.com) app.
 
 ### My App's 💼
