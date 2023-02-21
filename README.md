@@ -3,6 +3,8 @@
 ### A little bit About me 👨‍💻
 I'm Ilor and I'm an experienced Automation engineer. <br/>
 Just recently I finished GoCode's FullStack course (MERN), See My [MeetMusic](https://meetmusic.onrender.com) app.
+Currently employed by Previuse (Part-Time) as Front End developer using React, TypeScript, MUI, and Redux.
+Looking for a Full-Time position as an Automation developer / Full-Stack.
 
 ### My App's 💼
 - [MeetMusic](https://github.com/ilorwork/MeetMusic) (MERN)📑 `public` <br/>
