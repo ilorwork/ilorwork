@@ -2,9 +2,7 @@
 
 ### A little bit About me 👨‍💻
 I'm Ilor and I'm an experienced Automation engineer. <br/>
-Just recently I finished GoCode's FullStack course (MERN), See My [MeetMusic](https://meetmusic.onrender.com) app.
-Currently employed by Previuse (Part-Time) as Front End developer using React, TypeScript, MUI, and Redux.
-Looking for a Full-Time position as an Automation developer / Full-Stack.
+Currently employed by Israel National Digital Agency as an Automation engineer.
 
 ### My App's 💼
 - [MeetMusic](https://github.com/ilorwork/MeetMusic) (MERN)📑 `public` <br/>
@@ -14,7 +12,7 @@ Looking for a Full-Time position as an Automation developer / Full-Stack.
 - [Anti spam bot for telegram groups](https://github.com/ilorwork/UserVerificator) (C#)🤖  `public`
 
 ### Connect me 🔗
-- [LinkedIn](https://www.linkedin.com/in/ilor-shurer-513128203/) 💬
+- [LinkedIn](https://www.linkedin.com/in/ilor-shurer) 💬
 - Feel free to send an [E-mail](mailto:ilorwork64@gmail.com) 📧
 
 ### Languages and Tools 🛠
