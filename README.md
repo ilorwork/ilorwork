@@ -1,6 +1,6 @@
 ## Hi there 🙋‍♂️
 
-### A little bit about me 👨‍💻
+### A Little Bit About Me 👨‍💻
 I'm Ilor and I'm an experienced Automation engineer. <br/>
 Currently employed by Israel National Digital Agency as an Automation engineer.
 
@@ -11,7 +11,7 @@ Currently employed by Israel National Digital Agency as an Automation engineer.
 - LinkdIn automation project (Java+Selenium) :atom:  `private`<br/>
 - [Anti spam bot for telegram groups](https://github.com/ilorwork/UserVerificator) (C#)🤖  `public`
 
-### Connect me 🔗
+### Connect Me 🔗
 - [LinkedIn](https://www.linkedin.com/in/ilor-shurer) 💬
 - Feel free to send an [E-mail](mailto:ilorwork64@gmail.com) 📧
 
