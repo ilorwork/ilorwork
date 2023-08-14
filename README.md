@@ -1,4 +1,4 @@
-## Hi there 🙋‍♂️
+## Hi There 🙋‍♂️
 
 ### A Little Bit About Me 👨‍💻
 I'm Ilor and I'm an experienced Automation engineer. <br/>
@@ -15,7 +15,7 @@ Currently employed by Israel National Digital Agency as an Automation engineer.
 - [LinkedIn](https://www.linkedin.com/in/ilor-shurer) 💬
 - Feel free to send an [E-mail](mailto:ilorwork64@gmail.com) 📧
 
-### Languages and Tools 🛠
+### Languages And Tools 🛠
 
 <table>
   <tbody>
