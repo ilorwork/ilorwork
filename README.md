@@ -1,7 +1,6 @@
 ## Hi There 🙋‍♂️
 
-### A Little Bit About Me 👨‍💻
-I'm Ilor and I'm an experienced Automation engineer. <br/>
+I'm Ilor and I'm an experienced Automation engineer. 👨‍💻<br/>
 Currently employed by Israel National Digital Agency as an Automation engineer.
 
 ### My App's 💼
