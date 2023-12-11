@@ -1,7 +1,7 @@
 ## Hi There 🙋‍♂️
 
 I'm Ilor and I'm an experienced Automation engineer. 👨‍💻<br/>
-Currently employed by Israel National Digital Agency as an Automation engineer.
+Working at Israel National Digital Agency as an Automation engineer.
 
 ### My App's 💼
 - [MeetMusic](https://github.com/ilorwork/MeetMusic) (MERN)📑 `public` <br/>
