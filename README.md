@@ -82,6 +82,18 @@ Working at Israel National Digital Agency as an Automation engineer.
         </a>
         <br />RestSharp
       </td>
+      <td align="center" width="96">
+        <a href="https://playwright.dev/" rel="nofollow">
+          <img
+            src="https://playwright.dev/img/playwright-logo.svg"
+            width="48"
+            height="48"
+            alt="Playwright"
+            style="max-width: 100%"
+          />
+        </a>
+        <br />Playwright
+      </td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -125,18 +137,18 @@ Working at Israel National Digital Agency as an Automation engineer.
       </td>
       <td align="center" width="96">
         <a
-          href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+          href="https://www.typescriptlang.org/"
           rel="nofollow"
         >
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"
+            src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
             width="48"
             height="48"
-            alt="HTML5"
+            alt="TypeScript"
             style="max-width: 100%"
           />
         </a>
-        <br />HTML5
+        <br />TypeScript
       </td>
       <td align="center" width="96">
         <a
@@ -153,12 +165,27 @@ Working at Israel National Digital Agency as an Automation engineer.
         </a>
         <br />CSS3
       </td>
+      <td align="center" width="96">
+        <a
+          href="https://azure.microsoft.com/en-us/products/devops"
+          rel="nofollow"
+        >
+          <img
+            src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"
+            width="48"
+            height="48"
+            alt="Azure DevOps"
+            style="max-width: 100%"
+          />
+        </a>
+        <br />Azure
+      </td>
     </tr>
     <tr>
       <td align="center" width="96">
         <a href="https://www.postman.com/" rel="nofollow">
           <img
-            src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"
+            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
             width="48"
             height="48"
             alt="Postman"
@@ -171,7 +198,7 @@ Working at Israel National Digital Agency as an Automation engineer.
       <td align="center" width="96">
         <a href="https://git-scm.com/" rel="nofollow">
           <img
-            src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"
+            src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg"
             width="48"
             height="48"
             alt="Git"
