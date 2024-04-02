@@ -1,14 +1,13 @@
-## Hi There 🙋‍♂️
+## Hi There! 🙋‍♂️
 
-I'm Ilor and I'm an experienced Automation engineer. 👨‍💻<br/>
-Working at Israel National Digital Agency as an Automation engineer.
+I'm Ilor and I'm an experienced Automation engineer. 👨‍💻
 
 ### My App's 💼
-- [MeetMusic](https://github.com/ilorwork/MeetMusic) (MERN)📑 `public` <br/>
-- [GitHub automation project](https://github.com/ilorwork/GitHub-Automation) (C#+Selenium)📚  `public`<br/>
-- OpenProject automation project (C#+Selenium)📚  `private`<br/>
-- LinkdIn automation project (Java+Selenium) :atom:  `private`<br/>
-- [Anti spam bot for telegram groups](https://github.com/ilorwork/UserVerificator) (C#)🤖  `public`
+- [Playwright Actions Examples project](https://github.com/ilorwork/PlaywrightActionsExamples) (Playwright+TypeScript)🎭
+- [MeetMusic](https://github.com/ilorwork/MeetMusic) (MERN)📑
+- [GitHub automation project](https://github.com/ilorwork/GitHub-Automation) (C#+Selenium)📚
+- [Anti spam bot for telegram groups](https://github.com/ilorwork/UserVerificator) (C#)🤖 <br>
+  and more...
 
 ### Connect Me 🔗
 - [LinkedIn](https://www.linkedin.com/in/ilor-shurer) 💬
