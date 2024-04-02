@@ -4,7 +4,7 @@ I'm Ilor and I'm an experienced Automation engineer. 👨‍💻
 
 ### My App's 💼
 - [Playwright Actions Examples project](https://github.com/ilorwork/PlaywrightActionsExamples) (Playwright+TypeScript)🎭
-- [MeetMusic](https://github.com/ilorwork/MeetMusic) (MERN)📑
+- [MeetMusic](https://github.com/ilorwork/MeetMusic) (MERN)🎶 - A social network for musicians
 - [GitHub automation project](https://github.com/ilorwork/GitHub-Automation) (C#+Selenium)📚
 - [Anti spam bot for telegram groups](https://github.com/ilorwork/UserVerificator) (C#)🤖 <br>
   and more...
