@@ -11,7 +11,6 @@ I'm Ilor and I'm an experienced Automation engineer. 👨‍💻
 
 ### Connect Me 🔗
 - [LinkedIn](https://www.linkedin.com/in/ilor-shurer) 💬
-- Feel free to send an [E-mail](mailto:ilorwork64@gmail.com) 📧
 
 ### Languages And Tools 🛠
 
