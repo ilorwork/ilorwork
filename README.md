@@ -1,4 +1,4 @@
-## Hi There! 🙋‍♂️
+## Hi There! 👋
 
 I'm Ilor and I'm an experienced Automation engineer. 👨‍💻
 
