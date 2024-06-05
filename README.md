@@ -9,8 +9,9 @@ I'm Ilor and I'm an experienced Automation engineer. 👨‍💻
 - [Anti spam bot for telegram groups](https://github.com/ilorwork/UserVerificator) (C#)🤖 <br>
   and more...
 
-### Connect Me 🔗
-- [LinkedIn](https://www.linkedin.com/in/ilor-shurer) 💬
+### Connect With Me 🔗💬
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ilorwork64@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilor-shurer)
 
 ### Languages And Tools 🛠
 
