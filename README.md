@@ -261,5 +261,9 @@ Here's a glimpse into my world:
   </tbody>
 </table>
 
+  ### My Yearly Dashboard:
+|![Github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ilorwork&show_icons=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilorwork&show_icons=true&theme=dark&count_private=true&langs_count=8&layout=compact) |
+| ---------- | ----------|
+
 Emojis are from [this repo](https://github.com/ikatyang/emoji-cheat-sheet) <br/>
 Icons are from [this repo](https://github.com/devicons/devicon)
