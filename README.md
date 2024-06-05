@@ -1,15 +1,23 @@
 ## Hi There! 👋
 
-I'm Ilor and I'm an experienced Automation engineer. 👨‍💻
+I'm Ilor and I'm an Automation engineer, with an unyielding commitment to growth and innovation.
+
+Here's a glimpse into my world:
+
+### About Me 👨‍💻
+* 🚀 Always learning for professional advancement.
+* 🪚 Passionate about crafting unique personal projects.
+* 💯 Committed to pushing boundaries and achieving more.
+* 💬 Feel free to reach out to me on any subject.
 
 ### My App's 💼
-- [Playwright Actions Examples project](https://github.com/ilorwork/PlaywrightActionsExamples) (Playwright+TypeScript)🎭
-- [MeetMusic](https://github.com/ilorwork/MeetMusic) (MERN)🎶 - A social network for musicians
-- [GitHub automation project](https://github.com/ilorwork/GitHub-Automation) (C#+Selenium)📚
-- [Anti spam bot for telegram groups](https://github.com/ilorwork/UserVerificator) (C#)🤖 <br>
+- 🎭 [Playwright Actions Examples project](https://github.com/ilorwork/PlaywrightActionsExamples) (Playwright+TypeScript)
+- 🎶 [MeetMusic](https://github.com/ilorwork/MeetMusic) (MERN) - A social network for musicians
+- 📚 [GitHub automation project](https://github.com/ilorwork/GitHub-Automation) (C#+Selenium)
+- 🤖 [Anti spam bot for telegram groups](https://github.com/ilorwork/UserVerificator) (C#) <br>
   and more...
 
-### Connect With Me 🔗💬
+### Connect With Me 🔗
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ilorwork64@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilor-shurer)
 
@@ -72,7 +80,7 @@ I'm Ilor and I'm an experienced Automation engineer. 👨‍💻
       <td align="center" width="96">
         <a href="https://restsharp.dev/" rel="nofollow">
           <img
-            src="https://restsharp.dev/restsharp.png"
+            src="https://restsharp.dev/img/restsharp.png"
             width="48"
             height="48"
             alt="RestSharp"
